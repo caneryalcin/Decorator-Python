@@ -12,7 +12,7 @@ This means:
       	-Functions can be defined inside another functions as well and 
 		also be passed as argument to another function.
 	
-## What is Decorator in Pyhon
+## What is Decorator in Python ? 
 
 Decorator are functions that extends other functions and add new functionality without modifying its structure.
 
