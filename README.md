@@ -9,8 +9,8 @@ Before understand how works decorators we should know functions in Python are __
 This means:
 
       	-They can return from other functions,assigned to a variable and can be referenced to
-      	-Functions can be defined inside another functions as well
-		and also be passed as argument to another function.
+      	-Functions can be defined inside another functions as well and 
+		also be passed as argument to another function.
 	
 ## What is Decorator in Pyhon
 
